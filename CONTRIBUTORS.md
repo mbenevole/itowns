@@ -35,6 +35,9 @@ The following people have contributed to iTowns 2.
 * [Prolexia](http://prolexia.fr/)
   * [Dorian MOFFROID](https://github.com/dorian-moffroid-prolexia)
 
+* [Diginove](https://www.diginove.com)
+  * [Michel BENET](https://github.com/mbenevole)
+
 The following organizations supported iTowns2 :
 * IGN ( http://www.ign.fr )
 * Oslandia ( http://www.oslandia.com )
